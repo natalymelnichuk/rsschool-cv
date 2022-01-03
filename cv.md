@@ -1,7 +1,7 @@
 ## Natallia Melnichuk
 ## Contacts
 #### phone: +375 29 *** ** **
-#### email: 1234567890.gmail.com
+#### email: 1234567890@gmail.com
 #### GitHub: natalymelnichuk
 ## About me
 #### I am an excellent team worker and very willing to learn and develop new skills.
