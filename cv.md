@@ -11,3 +11,5 @@
 #### HTML
 #### CSS
 #### Git
+## English level
+#### A2
