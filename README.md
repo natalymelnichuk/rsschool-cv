@@ -1,1 +1,1 @@
-https://github.com/natalymelnichuk/rsschool-cve.css
+https://github.com/natalymelnichuk/rsschool-cv
