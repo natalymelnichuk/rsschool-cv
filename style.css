@@ -121,15 +121,11 @@ header a {
   color: #ffffff;
 }
 
-footer{
-    width: 100%;
-    display: flex;
-    justify-content: flex-end;
+footer {
+    width: 30%;
 }
 
 .footer {
-    width: 255px;
-    height: 150px;
     padding: 20px 10px;
     display: flex;
     flex-direction: column;
